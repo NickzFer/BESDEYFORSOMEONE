@@ -35,7 +35,7 @@ body {
 }
 .inside {
   background: linear-gradient(to right, #e7e7e7, #ffffff 30%);
-  padding: 0 20px;
+  
   
 
   flex-direction: column;
